@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe.config
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.pdb
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Form1.resources
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.exe
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.pdb
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\EV3MessengerLib.dll
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\EV3MessengerLib.xml
+C:\Users\Gebruiker\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\Lego.Ev3.Desktop.xml
